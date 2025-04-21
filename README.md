@@ -6,7 +6,7 @@
 **Project Title:** Animated Moving Car Scene using Adobe Animate  
 **Software Used:** Adobe Animate CC  
 **Duration of Project:** Approx. 90 frames at 50 FPS  
-**Instructor:** [Your Instructor’s Name]  
+**Instructor:** Saranjeet Kaur
 **Academic Year:** 2024-2025  
 
 ---
